@@ -297,7 +297,7 @@
             }
           ],
           "thresholds": "",
-          "timeFrom": null,
+          "timeFrom": "1m",
           "timeShift": null,
           "title": "Cell with Least Memory",
           "transparent": true,
